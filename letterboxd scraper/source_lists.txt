@@ -1,0 +1,3 @@
+# This is an example list that was imported using `python -m listscraper -f target_lists.txt`. Note that each line can take separate optional flags.
+# The output CSVs of this example run can be seen in the /example_output/ folder.
+
